@@ -1,0 +1,11 @@
+thead {
+    background-color: #3c8dbc;
+    color: white;
+}
+.red{
+    color: red;
+    cursor: pointer;
+}
+.margin-top-35{
+    margin-top: 35px;
+}

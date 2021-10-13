@@ -1,0 +1,14 @@
+composer install
+##Sonreir
+##Crear db
+##Cambiar el .env por el nombre del proyecto
+php artisan migrate
+php artisan jwt:secret
+##yes
+php artisan vendor:publish
+##Opción generator builder (por lo general es el 9)
+##"/generator_builder"(para crear tablas en vista)
+php artisan vendor:publish --provider="Appointer\Swaggervel\SwaggervelServiceProvider"
+##Cambiar de git repositorio
+##agregar (.env) al git ignore
+##Disfrutar :D
